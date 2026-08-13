@@ -3,11 +3,13 @@
 Local-first estimation for sprint planning. Web, mobile and CLI, all in the same session.
 Yjs CRDT state on the clients, content-blind relay — no accounts, nothing to leak.
 
-**[Write-up](https://gist.github.com/IIxauII/f3c5fbc677688d8e78337e4c833478d8)** ·
-**[hnch.dev](https://hnch.dev)** ·
-**[npm](https://www.npmjs.com/package/@xauyxau/hnch)**
+📖 **[Write-up](https://gist.github.com/IIxauII/f3c5fbc677688d8e78337e4c833478d8)** ·
+🌐 **[hnch.dev](https://hnch.dev)** ·
+📦 **[npm](https://www.npmjs.com/package/@xauyxau/hnch)**
 
 ---
 
-Also: **[skills](https://github.com/IIxauII/skills)** — Agent Skills for Claude Code ·
-**[lotus-forum-thread-exporter](https://github.com/IIxauII/lotus-forum-thread-exporter)** — WoltLab threads → PDF
+Also:
+
+- **[skills](https://github.com/IIxauII/skills)** — Agent Skills for Claude Code
+- **[lotus-forum-thread-exporter](https://github.com/IIxauII/lotus-forum-thread-exporter)** — WoltLab threads → PDF

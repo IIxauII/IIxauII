@@ -1,4 +1,4 @@
-## [hnch.dev](https://hnch.dev) — pointing poker for agile teams
+## hnch — pointing poker for teams
 
 📖 **[Write-up](https://gist.github.com/IIxauII/f3c5fbc677688d8e78337e4c833478d8)** ·
 🌐 **[hnch.dev](https://hnch.dev)** ·

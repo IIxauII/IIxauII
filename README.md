@@ -10,3 +10,4 @@ Also:
 
 - **[skills](https://github.com/IIxauII/skills)** — Agent Skills for Claude Code
 - **[lotus-forum-thread-exporter](https://github.com/IIxauII/lotus-forum-thread-exporter)** — WoltLab threads → PDF
+- **[kleinanzeigen-mcp](https://github.com/IIxauII/kleinanzeigen-mcp)** - MCP server for kleinanzeigen
